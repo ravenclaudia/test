@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Saindo do Baralho"
+title: Saindo do Baralho
 title_separator: "-"
 email: "claudiacruzmachado@gmail.com"
 description: "Um blog sobre assexualidade e arromanticidade."
