@@ -13,8 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "pt-BR"
 title: Saindo do Baralho
-email:
+title_separator          : "-"
+email: claudiacruzmachado@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   Um blog sobre assexualidade e arromanticidade.
 twitter_username: ravenclaudia
@@ -60,18 +63,18 @@ author:
   avatar : "https://i.ibb.co/4mtqsR0/MG-7494-Copy.jpg"
   bio    : "Eu gosto de criar histórias e de programar. Também faço uns desenhos e outras coisas por aí."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ravenclaudia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ravenclaudia"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/ravenclaudiart"
 
 footer:
   links:
@@ -111,3 +114,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+ comments:
+  provider               : "disqus" # (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : "saindo-do-baralho" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
