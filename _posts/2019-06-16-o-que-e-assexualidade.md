@@ -2,7 +2,7 @@
 published: true
 tags:
   - assexualidade - espectro assexual
-title: O que é assexualidade?
+title: O Que É Assexualidade?
 ---
 O espectro assexual se refere a pessoas que não sentem atração sexual, ou a sentem de forma condicional, rara ou infrequente. Dentro do espectro, é possível encontrar as seguintes identidades:
 
@@ -26,9 +26,3 @@ Preto: Assexualidade
 Cinza: Espectro assexual
 Branco: Simpatizantes não-assexuais
 Roxo: Comunidade
-
-
-
-
-
-
