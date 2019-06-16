@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Cláudia Cruz Machado"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://i.ibb.co/4mtqsR0/MG-7494-Copy.jpg"
   bio    : "Eu gosto de criar histórias e de programar. Também faço uns desenhos e outras coisas por aí."
   links:
     - label: "Website"
